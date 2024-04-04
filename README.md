@@ -10,4 +10,4 @@
 
 
 ## Main Lanauage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungpyo1007&layout=donut&theme=holi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/Seungpyo1007/Seungpyo1007)﻿
