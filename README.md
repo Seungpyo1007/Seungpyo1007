@@ -1,5 +1,6 @@
 # 안녕하세요! , Hello! , привет!
-<div class="tenor-gif-embed" data-postid="19827615" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/tanks-soviet-revolution-parade-salute-gif-19827615">Tanks Soviet GIF</a>from <a href="https://tenor.com/search/tanks-gifs">Tanks GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![russia-flag-gif](https://github.com/Seungpyo1007/Seungpyo1007/assets/128838429/9c8c40eb-6a3f-4c76-b2c9-c4b27905d0e0)
+
 
 ## Development status
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungpyo1007&theme=holi)
