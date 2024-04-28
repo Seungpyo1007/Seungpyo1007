@@ -8,7 +8,5 @@
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Seungpyo1007&theme=holi)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seungpyo1007&layout=donut&theme=holi)
+</a>
 <img src="https://github.com/Seungpyo1007/Seungpyo1007/blob/output/github-contribution-grid-snake.svg"/>
