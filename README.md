@@ -1,5 +1,4 @@
 # D:
-<p align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Seungpyo1007)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -14,4 +13,4 @@
 
 <img src="https://github.com/Seungpyo1007/Seungpyo1007/blob/output/github-contribution-grid-snake.svg"/>
 
-<p>
+
