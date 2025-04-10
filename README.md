@@ -30,13 +30,13 @@
 ### 🖥️ OS  
 <p> 
   <img src="https://img.shields.io/badge/macOS_Sonoma-000000?style=flat&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu 22.04-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows 11-0078D6?style=flat&logo=windows&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools  
 <p> 
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA 2024.1.7-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=white"/>
   <img src="https://img.shields.io/badge/Project_IDX-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
