@@ -2,7 +2,7 @@
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 <h1 align="center" style="color:#AEEEEE;">🌟 홍승표의 개발 월드에 오신 걸 환영합니다 🌟</h1>
-<p align="center" style="color:#CBAACB;">MASTERPIECE</p>
+<p align="center" style="color:#CBAACB;">NULL</p>
 
 ---
 
