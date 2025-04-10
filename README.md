@@ -29,16 +29,16 @@
 
 ### 🖥️ OS  
 <p> 
-  <img src="https://img.shields.io/badge/macOS_Sonoma-14.0-000000?style=flat&logo=apple&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/macOS%20Sonoma-14.0-000000?style=flat&logo=apple&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat&logo=ubuntu&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Windows-11-0078D6?style=flat&logo=windows&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Windows%2011-11-0078D6?style=flat&logo=windows&logoColor=white"/> 
 </p>
 
 ### 🛠️ Tools  
 <p> 
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-2024.1.7-000000?style=flat&logo=intellijidea&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2024.1.7-000000?style=flat&logo=intellijidea&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Rider-2024.1-CA2C92?style=flat&logo=rider&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Project_IDX-1.0.0-4285F4?style=flat&logo=googlechrome&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Project%20IDX-1.0.0-4285F4?style=flat&logo=googlechrome&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Xcode-15.3-1575F9?style=flat&logo=xcode&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AutoCAD-2024-D22128?style=flat&logo=autodesk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Unity-2023.2-000000?style=flat&logo=unity&logoColor=white"/> 
