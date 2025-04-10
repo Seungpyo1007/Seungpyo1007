@@ -1,6 +1,9 @@
-## 💻 Tech Stack
+<!-- 전체 텍스트 컬러 설정 -->
+<div style="color:#FFD700; background-color:#20232a; padding: 10px;">
 
-### 🧠 Languages  
+<h2>💻 <span style="color:#FFD700;">Tech Stack</span></h2>
+
+<h3>🧠 <span style="color:#FFD700;">Languages</span></h3>  
 <p> 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> 
@@ -11,7 +14,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
 </p>
 
-### 🧩 Frameworks & Libraries  
+<h3>🧩 <span style="color:#FFD700;">Frameworks & Libraries</span></h3>  
 <p> 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
@@ -20,21 +23,21 @@
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/> 
 </p>
 
-### ☁️ Cloud & 🛢️ DB  
+<h3>☁️ <span style="color:#FFD700;">Cloud & 🛢️ DB</span></h3>  
 <p> 
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white"/> 
 </p>
 
-### 🖥️ OS  
+<h3>🖥️ <span style="color:#FFD700;">OS</span></h3>  
 <p> 
   <img src="https://img.shields.io/badge/macOS%20Sonoma-14.0-000000?style=flat&logo=apple&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat&logo=ubuntu&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Windows%2011-24h2-0078D6?style=flat&logo=windows&logoColor=white"/> 
 </p>
 
-### 🛠️ Tools  
+<h3>🛠️ <span style="color:#FFD700;">Tools</span></h3>  
 <p> 
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2024.1.7-000000?style=flat&logo=intellijidea&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Rider-2024.1-CA2C92?style=flat&logo=rider&logoColor=white"/> 
@@ -45,9 +48,9 @@
   <img src="https://img.shields.io/badge/Git-2.44.0-F05032?style=flat&logo=git&logoColor=white"/> 
 </p>
 
----
+<hr />
 
-## 📊 GitHub Stats
+<h2>📊 <span style="color:#FFD700;">GitHub Stats</span></h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -64,9 +67,9 @@
   </a>   
 </p>
 
----
+<hr />
 
-## 📈 GitHub Activity Graph
+<h2>📈 <span style="color:#FFD700;">GitHub Activity Graph</span></h2>
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -81,5 +84,4 @@
   <img src="https://github.com/Seungpyo1007/Seungpyo1007/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" style="background-color:#000000"/>
 </p> 
 
-
-
+</div>
