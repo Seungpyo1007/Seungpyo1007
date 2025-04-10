@@ -29,20 +29,20 @@
 
 ### 🖥️ OS  
 <p> 
-  <img src="https://img.shields.io/badge/macOS_Sonoma-(latest)-000000?style=flat&logo=apple&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/macOS_Sonoma-14.0-000000?style=flat&logo=apple&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat&logo=ubuntu&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Windows-(latest)-0078D6?style=flat&logo=windows&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Windows-11-0078D6?style=flat&logo=windows&logoColor=white"/> 
 </p>
 
 ### 🛠️ Tools  
 <p> 
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-2024.1.7-000000?style=flat&logo=intellijidea&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Rider-(latest)-000000?style=flat&logo=rider&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Project_IDX-(latest)-4285F4?style=flat&logo=googlechrome&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Xcode-(latest)-147EFB?style=flat&logo=xcode&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AutoCAD-(latest)-E10C2D?style=flat&logo=autodesk&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Unity-(latest)-000000?style=flat&logo=unity&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Git-(latest)-FF6C37?style=flat&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Rider-2024.1-000000?style=flat&logo=rider&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Project_IDX-1.0.0-4285F4?style=flat&logo=googlechrome&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Xcode-15.3-147EFB?style=flat&logo=xcode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/AutoCAD-2024-E10C2D?style=flat&logo=autodesk&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Unity-2023.2-000000?style=flat&logo=unity&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-2.44.0-FF6C37?style=flat&logo=git&logoColor=white"/> 
 </p>
 
 ---
@@ -51,10 +51,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungpyo1007&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungpyo1007&layout=donut&show_icons=true&theme=redical&hide_border=true&bg_color=20232a&icon_color=FF0000&text_color=fff&title_color=FF5555&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
   </a>    
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&theme=redical&hide_border=true&bg_color=20232a&icon_color=FF0000&text_color=fff&title_color=FF5555&count_private=true" width="56%" />
   </a>   
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&theme=redical&bg_color=20232a&hide_border=true&line=FF5555&color=FF0000" width="94%"/>
   </a>
 </p>
 
