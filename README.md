@@ -37,12 +37,12 @@
 ### 🛠️ Tools  
 <p> 
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-2024.1.7-000000?style=flat&logo=intellijidea&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Rider-2024.1-000000?style=flat&logo=rider&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Rider-2024.1-CA2C92?style=flat&logo=rider&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Project_IDX-1.0.0-4285F4?style=flat&logo=googlechrome&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Xcode-15.3-147EFB?style=flat&logo=xcode&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AutoCAD-2024-E10C2D?style=flat&logo=autodesk&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Xcode-15.3-1575F9?style=flat&logo=xcode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/AutoCAD-2024-D22128?style=flat&logo=autodesk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Unity-2023.2-000000?style=flat&logo=unity&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Git-2.44.0-FF6C37?style=flat&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-2.44.0-F05032?style=flat&logo=git&logoColor=white"/> 
 </p>
 
 ---
