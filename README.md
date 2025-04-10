@@ -51,10 +51,16 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungpyo1007&layout=donut&show_icons=true&theme=redical&hide_border=true&bg_color=20232a&icon_color=FF0000&text_color=fff&title_color=FF5555&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungpyo1007&layout=donut&show_icons=true&hide_border=false&border_color=FFD700&bg_color=B22222&icon_color=FFD700&text_color=FFD700&title_color=FFD700&count_private=true&exclude_repo=Face-Transfer-Application" 
+      width="38%" 
+    />
   </a>    
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&theme=redical&hide_border=true&bg_color=20232a&icon_color=FF0000&text_color=fff&title_color=FF5555&count_private=true" width="56%" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=FFD700&bg_color=B22222&icon_color=FFD700&text_color=FFD700&title_color=FFD700&count_private=true" 
+      width="56%" 
+    />
   </a>   
 </p>
 
@@ -64,10 +70,16 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&theme=redical&bg_color=20232a&hide_border=true&line=FF5555&color=FF0000" width="94%"/>
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&bg_color=B22222&hide_border=false&border_color=FFD700&line=FFD700&color=FFD700&point=FFD700" 
+      width="94%"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Seungpyo1007/Seungpyo1007/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+  <img src="https://github.com/Seungpyo1007/Seungpyo1007/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" style="background-color:#000000"/>
+</p> 
+
+
+
