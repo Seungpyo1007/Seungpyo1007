@@ -36,11 +36,11 @@
 </p>
 
 <h3 style="color:#CBAACB;">🖥️ OS</h3>  
-<p> 
+<p>
   <img src="https://img.shields.io/badge/macOS%20Sonoma-14.0-000000?style=flat&logo=apple&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-11-1793D1?style=flat&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%2011-24h2-0078D6?style=flat&logo=windows&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Arch%20Linux-Rolling-1793D1?style=flat&logo=arch-linux&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Windows%2011-24H2-0078D6?style=flat&logo=windows&logoColor=white"/> 
 </p>
 
 <h3 style="color:#CBAACB;">🛠️ Tools</h3>  
