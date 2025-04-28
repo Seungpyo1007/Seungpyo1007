@@ -1,7 +1,7 @@
 <!-- README 전체를 감싸는 스타일 -->
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<h1 align="center" style="color:#AEEEEE;">🌟 Запад-81 🌟</h1>
+<h1 align="center" style="color:#AEEEEE;">🕊️ Запад-81 🕊️</h1>
 <p align="center" style="color:#CBAACB;">シャイノグラフィ</p>
 
 ---
