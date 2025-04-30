@@ -47,7 +47,7 @@
 <p> 
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2024.1.7-000000?style=flat&logo=intellijidea&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Rider-2024.1-CA2C92?style=flat&logo=rider&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Project%20IDX-1.0.0-4285F4?style=flat&logo=googlechrome&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Project%20IDX -> Firebase%20Studio-1.0.0-4285F4?style=flat&logo=googlechrome&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Xcode-15.3-1575F9?style=flat&logo=xcode&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AutoCAD-2024-D22128?style=flat&logo=autodesk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Unity-2023.2-000000?style=flat&logo=unity&logoColor=white"/> 
