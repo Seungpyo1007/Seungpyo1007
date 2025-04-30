@@ -24,7 +24,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"/> 
+  <img src="https://img.shields.io/badge/React%20Native%20%2B%20Expo-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> 
