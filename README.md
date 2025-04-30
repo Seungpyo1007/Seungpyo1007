@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
 </div>
 
-
 <h3 style="color:#CBAACB;">🧩 Frameworks & Libraries</h3>  
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/> 
@@ -31,8 +30,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/> 
 </div>
-
-
 
 <h3 style="color:#CBAACB;">☁️ Cloud & 🛢️ DB</h3>  
 <p> 
