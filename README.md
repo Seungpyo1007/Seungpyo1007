@@ -9,15 +9,15 @@
 ## 💻 <span style="color:#89CFF0;">Tech Stack</span>
 
 <h3 style="color:#CBAACB;">🧠 Languages</h3>  
-<p> 
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
-</p>
+</div>
 
 <h3 style="color:#CBAACB;">🧩 Frameworks & Libraries</h3>  
 <p> 
