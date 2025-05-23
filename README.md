@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/> 
 </div>
 
-<h3 style="color:#CBAACB;">☁️ Cloud & 🛢️ DB</h3>  
+<h3 style="color:#CBAACB;">☁️ Cloud & DB 🛢️</h3>  
 <p> 
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> 
