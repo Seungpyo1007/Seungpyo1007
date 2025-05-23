@@ -2,7 +2,7 @@
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 <h1 align="center" style="color:#AEEEEE;">🕊️ My Stacks 🕊️</h1>
-<p align="center" style="color:#CBAACB;">"내 코드는 스펙이 아니라, 사용자의 일상을 바꾸는 설계도입니다."</p>
+<p align="center" style="color:#CBAACB;">"Every line of code is a step — toward a stage where ideas shine."</p>
 
 ---
 
