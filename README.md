@@ -1,7 +1,7 @@
 <!-- README 전체를 감싸는 스타일s --> 
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<h1 align="center" style="color:#AEEEEE;">🕊️ My Stacks 🕊️</h1>
+<h1 align="center" style="color:#AEEEEE;">🕊️ Full Stack Developer 🕊️</h1>
 <p align="center" style="color:#CBAACB;">"Every line of code is a step — toward a stage where ideas shine."</p>
 
 ---
