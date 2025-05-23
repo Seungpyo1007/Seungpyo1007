@@ -1,14 +1,14 @@
 <!-- README 전체를 감싸는 스타일s --> 
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<h1 align="center" style="color:#AEEEEE;">🕊️ Full Stack Developer & Hardware Engineer 🕊️</h1>
+<h1 align="center" style="color:#AEEEEE;">💻 Full Stack Developer & Hardware Engineer 🔌</h1>
 <p align="center" style="color:#CBAACB;">"Codes & Chips in place is a step — Toward a Stage where ideas Shine."</p>
 
 ---
 
 ## 🖥️ <span style="color:#89CFF0;">Tech Stack</span>
 
-<h3 style="color:#CBAACB;">💻 Languages</h3>  
+<h3 style="color:#CBAACB;">📁 Languages</h3>  
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> 
