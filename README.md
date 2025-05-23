@@ -8,7 +8,7 @@
 
 ## 💻 <span style="color:#89CFF0;">Tech Stack</span>
 
-<h3 style="color:#CBAACB;">- Languages</h3>  
+<h3 style="color:#CBAACB;">🖥️ Languages</h3>  
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> 
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
 </div>
 
-<h3 style="color:#CBAACB;">🧩 Frameworks & Libraries</h3>  
+<h3 style="color:#CBAACB;">🧩 Frameworks & Libraries 📕</h3>  
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-<h3 style="color:#CBAACB;">🖥️ OS</h3>  
+<h3 style="color:#CBAACB;">💾 OS</h3>  
 <p>
   <img src="https://img.shields.io/badge/macOS%20Sonoma-14.0-000000?style=flat&logo=apple&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat&logo=ubuntu&logoColor=white"/>
