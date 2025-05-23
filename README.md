@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
 <h3 style="color:#CBAACB;">🖥️ OS</h3>  
