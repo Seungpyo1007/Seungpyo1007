@@ -2,7 +2,7 @@
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 <h1 align="center" style="color:#AEEEEE;">🕊️ Full Stack Developer & Hardware Engineer 🕊️</h1>
-<p align="center" style="color:#CBAACB;">"Every line of code is a step — toward a stage where ideas shine."</p>
+<p align="center" style="color:#CBAACB;">"Every line of code and every chip in place is a step — toward a stage where ideas shine."</p>
 
 ---
 
