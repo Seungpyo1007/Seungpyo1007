@@ -41,7 +41,7 @@
 
 <h3 style="color:#CBAACB;">💾 OS</h3>  
 <p>
-  <img src="https://img.shields.io/badge/macOS%20Sonoma-14.0-000000?style=flat&logo=apple&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/macOS%20Tahoe-26.0.1-000000?style=flat&logo=apple&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-Rolling-1793D1?style=flat&logo=arch-linux&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Windows%2011-25H2-0078D6?style=flat&logo=windows&logoColor=white"/> 
@@ -55,10 +55,10 @@
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 8px;">
-  <img src="https://img.shields.io/badge/Xcode-15.3-1575F9?style=flat&logo=xcode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Xcode-26.0.1-1575F9?style=flat&logo=xcode&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AutoCAD-2024-D22128?style=flat&logo=autodesk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Unity-2023.2-000000?style=flat&logo=unity&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Git-2.44.0-F05032?style=flat&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-2.50.1-F05032?style=flat&logo=git&logoColor=white"/> 
 </div>
 
 
