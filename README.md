@@ -75,6 +75,10 @@
     src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=AEEEEE&text_color=AEEEEE&title_color=89CFF0&count_private=true" 
     width="56%" 
   />
+  <img 
+    src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&border=CBAACB&ring=89CFF0&fire=AEEEEE&currStreakNum=AEEEEE&sideNums=AEEEEE&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB" 
+    width="56%" 
+  />
 </p>
 
 ---
@@ -88,15 +92,5 @@
   />
 </p>
 
----
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&border=CBAACB&ring=89CFF0&fire=AEEEEE&currStreakNum=AEEEEE&sideNums=AEEEEE&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB" 
-      width="94%" 
-    />
-  </a>
-</p>
 
 </div>
