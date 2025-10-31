@@ -68,16 +68,19 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungpyo1007&layout=donut&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=AEEEEE&text_color=AEEEEE&title_color=89CFF0&count_private=true&exclude_repo=Face-Transfer-Application" 
-    width="38%" 
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=AEEEEE&text_color=AEEEEE&title_color=89CFF0&count_private=true" 
-    width="56%" 
+    width="48%" 
   />
   <img 
     src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&border=CBAACB&ring=89CFF0&fire=AEEEEE&currStreakNum=AEEEEE&sideNums=AEEEEE&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB" 
-    width="56%" 
+    width="48%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungpyo1007&layout=donut&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=AEEEEE&text_color=AEEEEE&title_color=89CFF0&count_private=true&exclude_repo=Face-Transfer-Application" 
+    width="94%" 
   />
 </p>
 
