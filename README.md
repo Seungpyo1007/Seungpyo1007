@@ -1,8 +1,14 @@
 <!-- README 전체를 감싸는 스타일s --> 
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<h1 align="center" style="color:#AEEEEE;">⌨️ Full Stack Developer & Hardware Engineer 🔌</h1>
-<p align="center" style="color:#CBAACB;">"Codes & Chips in place is a step — Toward a Stage where ideas Shine."</p>
+<!-- <h1 align="center" style="color:#AEEEEE;">⌨️ Full Stack Developer & Hardware Engineer 🔌</h1>
+<p align="center" style="color:#CBAACB;">"Codes & Chips in place is a step — Toward a Stage where ideas Shine."</p> -->
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7jf7s4qikc5wtjj5xe4rv7yhy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7jf7s4qikc5wtjj5xe4rv7yhy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 
 ---
 
