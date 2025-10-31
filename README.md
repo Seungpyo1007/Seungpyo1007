@@ -1,6 +1,8 @@
 <!-- README 전체를 감싸는 스타일s --> 
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
+ ![speech](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=60&color=gradient&customColorList=0F1B2A,CBAACB&text=Hello-nl-World!&animation=blinking&fontAlign=30,60&fontAlignY=35,55)
+
 <!-- <h1 align="center" style="color:#AEEEEE;">⌨️ Full Stack Developer & Hardware Engineer 🔌</h1>
 <p align="center" style="color:#CBAACB;">"Codes & Chips in place is a step — Toward a Stage where ideas Shine."</p> -->
 
