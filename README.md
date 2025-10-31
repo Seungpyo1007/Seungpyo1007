@@ -73,7 +73,7 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=8&card_width=320&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&title_color=89CFF0&text_color=AEEEEE" />
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=10&card_width=320&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&title_color=89CFF0&text_color=AEEEEE" />
   </a>
 </p>
 
