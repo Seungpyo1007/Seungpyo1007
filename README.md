@@ -1,7 +1,7 @@
 <!-- README 전체를 감싸는 스타일s --> 
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
- ![speech](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=60&color=gradient&customColorList=0F1B2A,CBAACB&text=Hello-nl-World!&animation=blinking&fontAlign=30,60&fontAlignY=35,55)
+ ![speech](https://capsule-render.vercel.app/api?type=speech&height=220&fontSize=84&color=gradient&customColorList=ffc1e3,ffd6e7,fff0f6,e0c3fc,8ec5ff,cff0ff,a1ffce,f9f586&text=Hello%20World!&animation=blinking&fontAlign=50&fontAlignY=50&v=4&cacheBust=prism4)
 
 <!-- <h1 align="center" style="color:#AEEEEE;">⌨️ Full Stack Developer & Hardware Engineer 🔌</h1>
 <p align="center" style="color:#CBAACB;">"Codes & Chips in place is a step — Toward a Stage where ideas Shine."</p> -->
@@ -77,11 +77,11 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=AEEEEE&text_color=AEEEEE&title_color=89CFF0&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=30,ffc1e3,ffd6e7,fff0f6,e0c3fc,8ec5ff,cff0ff&icon_color=ffffff&text_color=ffffff&title_color=ffffff&count_private=true&v=3" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=10&card_width=320&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&title_color=89CFF0&text_color=AEEEEE" />
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=10&card_width=320&hide_border=false&border_color=CBAACB&bg_color=30,ffc1e3,ffd6e7,fff0f6,e0c3fc,8ec5ff,cff0ff&title_color=ffffff&text_color=ffffff&v=3" />
   </a>
 </p>
 
