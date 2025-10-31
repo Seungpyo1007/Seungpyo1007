@@ -1,7 +1,7 @@
 <!-- README 전체를 감싸는 스타일s --> 
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=84&color=gradient&customColorList=18&text=Hello%20World!&animation=twinkling&fontAlign=50&fontAlignY=50&v=4)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=70&color=gradient&customColorList=18&text=Hello%20World!&animation=twinkling&fontAlign=50&fontAlignY=50&v=4)
 
 <!-- <h1 align="center" style="color:#AEEEEE;">⌨️ Full Stack Developer & Hardware Engineer 🔌</h1>
 <p align="center" style="color:#CBAACB;">"Codes & Chips in place is a step — Toward a Stage where ideas Shine."</p> -->
