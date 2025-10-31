@@ -67,20 +67,23 @@
 <h2 style="color:#89CFF0;">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=AEEEEE&text_color=AEEEEE&title_color=89CFF0&count_private=true" 
-    width="48%" height="180" 
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&border=CBAACB&ring=89CFF0&fire=AEEEEE&currStreakNum=AEEEEE&sideNums=AEEEEE&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB" 
-    width="48%" height="180" 
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=AEEEEE&text_color=AEEEEE&title_color=89CFF0&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=8&card_width=320&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&title_color=89CFF0&text_color=AEEEEE" />
+  </a>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Seungpyo1007&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<p align="center">
+  <img height="200" align="center"
+    src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&border=CBAACB&ring=89CFF0&fire=AEEEEE&currStreakNum=AEEEEE&sideNums=AEEEEE&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB" />
+</p>
 
-![](https://raw.githubusercontent.com/Seungpyo1007/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Seungpyo1007/github-stats-transparent/output/generated/languages.svg)
+
+ 
 
 
 ---
