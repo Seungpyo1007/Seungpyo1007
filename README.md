@@ -1,7 +1,7 @@
 <!-- README 전체를 감싸는 스타일s --> 
 <div style="background-color:#0F1B2A; color:#CBAACB; padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
- ![speech](https://capsule-render.vercel.app/api?type=speech&height=220&fontSize=84&color=gradient&customColorList=ffc1e3,ffd6e7,fff0f6,e0c3fc,8ec5ff,cff0ff,a1ffce,f9f586&text=Hello%20World!&animation=blinking&fontAlign=50&fontAlignY=50&v=4&cacheBust=prism4)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=84&color=gradient&customColorList=18&text=Hello%20World!&animation=twinkling&fontAlign=50&fontAlignY=50&v=4)
 
 <!-- <h1 align="center" style="color:#AEEEEE;">⌨️ Full Stack Developer & Hardware Engineer 🔌</h1>
 <p align="center" style="color:#CBAACB;">"Codes & Chips in place is a step — Toward a Stage where ideas Shine."</p> -->
@@ -59,7 +59,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2024.1.7-000000?style=flat&logo=intellijidea&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Rider-2024.1-CA2C92?style=flat&logo=rider&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Project%20IDX→Firebase%20Studio-Migrated-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Project%20IDX%E2%86%92Firebase%20Studio-Migrated-FFCA28?style=flat&logo=firebase&logoColor=white"/>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 8px;">
@@ -87,7 +87,7 @@
 
 <p align="center">
   <img height="200" align="center"
-    src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&border=CBAACB&ring=89CFF0&fire=AEEEEE&currStreakNum=AEEEEE&sideNums=AEEEEE&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB" />
+    src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&hide_border=false&border=CBAACB&ring=ffc1e3&fire=e0c3fc&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB&v=3" />
 </p>
 
 
@@ -100,7 +100,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&bg_color=0F1B2A&hide_border=false&border_color=CBAACB&line=89CFF0&color=AEEEEE&point=CBAACB" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&bg_color=0F1B2A&hide_border=false&border_color=CBAACB&line=89CFF0&color=AEEEEE&point=CBAACB&v=3" 
     width="94%"
   />
 </p>
