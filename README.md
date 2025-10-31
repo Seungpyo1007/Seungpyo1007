@@ -77,27 +77,11 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&random=false&width=940&lines=Seungpyo+Hong;Full+Stack+%26+Hardware+Engineer;Building+clean+systems+with+neat+UX" 
-      style="background-color:#0F1B2A" 
-      alt="typing svg"/>
-  </a>
-</p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Seungpyo1007&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Seungpyo1007/github-stats-transparent/output/generated/overview.svg" 
-    width="94%" 
-    alt="transparent overview"/>
-</p>
+![](https://raw.githubusercontent.com/Seungpyo1007/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Seungpyo1007/github-stats-transparent/output/generated/languages.svg)
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Seungpyo1007/github-stats-transparent/output/generated/languages.svg" 
-    width="94%" 
-    alt="transparent languages"/>
-</p>
 
 ---
 
