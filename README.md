@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7jf7s4qikc5wtjj5xe4rv7yhy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7jf7s4qikc5wtjj5xe4rv7yhy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7jf7s4qikc5wtjj5xe4rv7yhy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff0a0a&interchange=true&profanity=false&bar_color=00ff00&bar_color_cover=false&mode=dark">
   </a>
 </p>
 
