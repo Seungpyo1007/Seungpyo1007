@@ -88,6 +88,8 @@
   />
 </p>
 
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seungpyo1007/Seungpyo1007/output/pacman-contribution-graph-dark.svg">
