@@ -69,19 +69,34 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=AEEEEE&text_color=AEEEEE&title_color=89CFF0&count_private=true" 
-    width="48%" 
+    width="48%" height="180" 
   />
   <img 
     src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&border=CBAACB&ring=89CFF0&fire=AEEEEE&currStreakNum=AEEEEE&sideNums=AEEEEE&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB" 
-    width="48%" 
+    width="48%" height="180" 
   />
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&random=false&width=940&lines=Seungpyo+Hong;Full+Stack+%26+Hardware+Engineer;Building+clean+systems+with+neat+UX" 
+      style="background-color:#0F1B2A" 
+      alt="typing svg"/>
+  </a>
+</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seungpyo1007&layout=donut&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=AEEEEE&text_color=AEEEEE&title_color=89CFF0&count_private=true&exclude_repo=Face-Transfer-Application" 
+    src="https://raw.githubusercontent.com/Seungpyo1007/github-stats-transparent/output/generated/overview.svg" 
     width="94%" 
-  />
+    alt="transparent overview"/>
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Seungpyo1007/github-stats-transparent/output/generated/languages.svg" 
+    width="94%" 
+    alt="transparent languages"/>
 </p>
 
 ---
