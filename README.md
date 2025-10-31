@@ -91,11 +91,12 @@
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seungpyo1007/Seungpyo1007/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seungpyo1007/Seungpyo1007/output/pacman-contribution-graph-light.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Seungpyo1007/Seungpyo1007/output/pacman-contribution-graph-light.svg" style="background-color:#0F1B2A"/>
-  </picture>
-</p> 
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&border=CBAACB&ring=89CFF0&fire=AEEEEE&currStreakNum=AEEEEE&sideNums=AEEEEE&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB" 
+      width="94%" 
+    />
+  </a>
+</p>
 
 </div>
