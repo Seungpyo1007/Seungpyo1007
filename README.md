@@ -90,10 +90,6 @@
     src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&hide_border=false&border=CBAACB&ring=ffc1e3&fire=e0c3fc&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB&v=3" />
 </p>
 
-
- 
-
-
 ---
 
 <h2 style="color:#89CFF0;">📈 GitHub Activity Graph</h2>
