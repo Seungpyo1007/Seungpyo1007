@@ -88,14 +88,10 @@
 <h2 style="color:#89CFF0;">📊 GitHub Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" 
-      src="https://github-readme-stats.shion.dev/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=30,ffc1e3,ffd6e7,fff0f6,e0c3fc,8ec5ff,cff0ff&icon_color=ffffff&text_color=ffffff&title_color=ffffff&count_private=true&v=3" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" 
-      src="https://github-readme-stats.shion.dev/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=10&card_width=320&hide_border=false&border_color=CBAACB&bg_color=30,ffc1e3,ffd6e7,fff0f6,e0c3fc,8ec5ff,cff0ff&title_color=ffffff&text_color=ffffff&v=3" />
-  </a>
+  <img height="200" align="center" 
+    src="https://github-readme-stats.shion.dev/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=ffc1e3&text_color=FFFFFF&title_color=89CFF0&count_private=true&v=3" />
+  <img height="200" align="center" 
+    src="https://github-readme-stats.shion.dev/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=10&card_width=320&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&title_color=89CFF0&text_color=FFFFFF&v=3" />
 </p>
 
 <p align="center">
