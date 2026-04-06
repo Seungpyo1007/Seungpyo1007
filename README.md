@@ -12,6 +12,11 @@
   </a>
 </p>
 
+<h3 style="color:#CBAACB;">🌐 Browser</h3>
+<p>
+  <img src="https://img.shields.io/badge/Arc%20Browser-Focused-5E43FB?style=flat&logo=arc&logoColor=white"/>
+</p>
+
 
 
 ## 🖥️ <span style="color:#89CFF0;">Tech Stack</span>
@@ -26,6 +31,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/> 
 </div>
 
 <h3 style="color:#CBAACB;">🧩 Frameworks & Libraries 📕</h3>  
@@ -37,6 +43,9 @@
   <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SPM-FA7343?style=flat&logo=swift&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/UIKit-1575F9?style=flat&logo=apple&logoColor=white"/> 
 </div>
 
 <h3 style="color:#CBAACB;">☁️ Cloud & DB 🛢️</h3>  
@@ -45,27 +54,31 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white"/> 
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </p>
 
 <h3 style="color:#CBAACB;">💾 OS</h3>  
 <p>
-  <img src="https://img.shields.io/badge/macOS%20Tahoe-26.0.1-000000?style=flat&logo=apple&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/macOS%20Tahoe-26.3.1-000000?style=flat&logo=apple&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-Rolling-1793D1?style=flat&logo=arch-linux&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Windows%2011-25H2-0078D6?style=flat&logo=windows&logoColor=white"/> 
 </p>
 
-<h3 style="color:#CBAACB;">🛠️ Tools</h3>  
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://img.shields.io/badge/Cherry%20Studio-v1.8.4-D22128?style=flat&logo=cherry&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Antigravity-v1.21.9-000000?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2024.1.7-000000?style=flat&logo=intellijidea&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Rider-2024.1-CA2C92?style=flat&logo=rider&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Project%20IDX%E2%86%92Firebase%20Studio-Migrated-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rider-2026.1-CA2C92?style=flat&logo=rider&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-Panda%202-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 8px;">
-  <img src="https://img.shields.io/badge/Xcode-26.0.1-1575F9?style=flat&logo=xcode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Xcode-26.4-1575F9?style=flat&logo=xcode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Unity-6000.4.0f1-000000?style=flat&logo=unity&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Blender-5.1.0-F5792A?style=flat&logo=blender&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AutoCAD-2024-D22128?style=flat&logo=autodesk&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Unity-2023.2-000000?style=flat&logo=unity&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Git-2.50.1-F05032?style=flat&logo=git&logoColor=white"/> 
 </div>
 
