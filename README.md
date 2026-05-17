@@ -17,6 +17,11 @@
 <table align="center">
   <tr>
     <td align="center">
+      <img width="240" src="https://github.com/user-attachments/assets/a08a3444-0271-47f2-b9c0-d6ea0d359fee" alt="八宮 めぐる"/>
+      <br/>
+      <b>💛 八宮 めぐる</b>
+    </td>
+    <td align="center">
       <img width="240" src="https://github.com/user-attachments/assets/f000ffe8-1c73-4a3f-8bf3-d7b63bc2108b" alt="桜木 真乃"/>
       <br/>
       <b>🌸 桜木 真乃</b>
@@ -26,11 +31,6 @@
       <br/>
       <b>💙 風野 灯織</b>
     </td>
-    <td align="center">
-      <img width="240" src="https://github.com/user-attachments/assets/a08a3444-0271-47f2-b9c0-d6ea0d359fee" alt="八宮 めぐる"/>
-      <br/>
-      <b>💛 八宮 めぐる</b>
-    </td>
   </tr>
 </table>
 
@@ -38,9 +38,9 @@
 graph TD
     P["💎 シャイニーカラーズ"]:::root
     P --> IS["illumination STARS"]:::unit
+    IS --> G["八宮 めぐる"]:::member
     IS --> M["桜木 真乃 ⭐"]:::member
     IS --> H["風野 灯織"]:::member
-    IS --> G["八宮 めぐる"]:::member
 
     classDef root fill:#0F1B2A,stroke:#F8B9C9,color:#F8B9C9,stroke-width:3px
     classDef unit fill:#0F1B2A,stroke:#CBAACB,color:#CBAACB,stroke-width:2px
@@ -50,16 +50,16 @@ graph TD
 ```mermaid
 graph TD
     LA["L'Antica"]:::unit
-    LA --> LA1["月岡 恋鐘"]:::member
-    LA --> LA2["田中 摩美々"]:::member
-    LA --> LA3["白瀬 咲耶"]:::member
+    LA --> LA1["田中 摩美々"]:::member
+    LA --> LA2["白瀬 咲耶"]:::member
+    LA --> LA3["月岡 恋鐘 ⚜︎"]:::member
     LA --> LA4["三峰 結華"]:::member
     LA --> LA5["幽谷 霧子"]:::member
 
     HC["放課後クライマックスガールズ"]:::unit
     HC --> HC1["小宮 果穂"]:::member
     HC --> HC2["園田 智代子"]:::member
-    HC --> HC3["西城 樹里"]:::member
+    HC --> HC3["西城 樹里 ⚜︎"]:::member
     HC --> HC4["杜野 凛世"]:::member
     HC --> HC5["有栖川 夏葉"]:::member
 
@@ -70,13 +70,13 @@ graph TD
 ```mermaid
 graph TD
     AL["ALSTROEMERIA"]:::unit
-    AL --> AL1["桑山 千雪"]:::member
-    AL --> AL2["大崎 甘奈"]:::member
+    AL --> AL1["大崎 甘奈"]:::member
+    AL --> AL2["桑山 千雪 ⚜︎"]:::member
     AL --> AL3["大崎 甜花"]:::member
 
     SL["Straylight"]:::unit
     SL --> SL1["黛 冬優子"]:::member
-    SL --> SL2["芹沢 あさひ"]:::member
+    SL --> SL2["芹沢 あさひ ⚜︎"]:::member
     SL --> SL3["和泉 愛依"]:::member
 
     classDef unit fill:#0F1B2A,stroke:#CBAACB,color:#CBAACB,stroke-width:2px
@@ -86,8 +86,8 @@ graph TD
 ```mermaid
 graph TD
     NC["noctchill"]:::unit
-    NC --> NC1["浅倉 透"]:::member
-    NC --> NC2["樋口 円香"]:::member
+    NC --> NC1["樋口 円香"]:::member
+    NC --> NC2["浅倉 透 ⚜︎"]:::member
     NC --> NC3["福丸 小糸"]:::member
     NC --> NC4["市川 雛菜"]:::member
 
@@ -114,6 +114,31 @@ graph TD
   <img src="https://img.shields.io/badge/Safari-26-006CFF?style=flat&logo=safari&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chrome-148-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firefox-150.0.3-FF7139?style=flat&logo=firefox&logoColor=white"/>
+</p>
+
+<h2 align="center">🪪 GitHub Information</h2>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="200" align="center"
+    src="https://github-readme-stats.shion.dev/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=ffc1e3&text_color=FFFFFF&title_color=89CFF0&count_private=true&v=3" />
+  <img height="200" align="center"
+    src="https://github-readme-stats.shion.dev/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=10&card_width=320&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&title_color=89CFF0&text_color=FFFFFF&v=3" />
+</p>
+
+<p align="center">
+  <img height="200" align="center"
+    src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&hide_border=false&border=CBAACB&ring=ffc1e3&fire=e0c3fc&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB&v=3" />
+</p>
+
+<h3 align="center">📈 GitHub Activity Graph</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&bg_color=0F1B2A&hide_border=false&border_color=CBAACB&line=89CFF0&color=AEEEEE&point=CBAACB&v=3"
+    width="94%"
+  />
 </p>
 
 ## 🖥️ Tech Stack — Produce Units
@@ -390,26 +415,3 @@ graph TD
 </p>
 
 </details>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="200" align="center"
-    src="https://github-readme-stats.shion.dev/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=ffc1e3&text_color=FFFFFF&title_color=89CFF0&count_private=true&v=3" />
-  <img height="200" align="center"
-    src="https://github-readme-stats.shion.dev/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=10&card_width=320&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&title_color=89CFF0&text_color=FFFFFF&v=3" />
-</p>
-
-<p align="center">
-  <img height="200" align="center"
-    src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&hide_border=false&border=CBAACB&ring=ffc1e3&fire=e0c3fc&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB&v=3" />
-</p>
-
-<h2 align="center">📈 GitHub Activity Graph</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&bg_color=0F1B2A&hide_border=false&border_color=CBAACB&line=89CFF0&color=AEEEEE&point=CBAACB&v=3"
-    width="94%"
-  />
-</p>
