@@ -108,17 +108,7 @@ graph TD
     classDef member fill:#CBAACB,stroke:#0F1B2A,color:#0F1B2A
 ```
 
-<h3 align="left">🌐 Browser</h3>
-<p>
-  <img src="https://img.shields.io/badge/Arc%20Browser-1.147.0-5E43FB?style=flat&logo=arc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Safari-26-006CFF?style=flat&logo=safari&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chrome-148-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firefox-150.0.3-FF7139?style=flat&logo=firefox&logoColor=white"/>
-</p>
-
 <h2 align="center">🪪 GitHub Information</h2>
-
-<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img height="200" align="center"
@@ -132,13 +122,19 @@ graph TD
     src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&hide_border=false&border=CBAACB&ring=ffc1e3&fire=e0c3fc&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB&v=3" />
 </p>
 
-<h3 align="center">📈 GitHub Activity Graph</h3>
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&bg_color=0F1B2A&hide_border=false&border_color=CBAACB&line=89CFF0&color=AEEEEE&point=CBAACB&v=3"
     width="94%"
   />
+</p>
+
+<h3 align="left">🌐 Browser</h3>
+<p>
+  <img src="https://img.shields.io/badge/Arc%20Browser-1.147.0-5E43FB?style=flat&logo=arc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Safari-26-006CFF?style=flat&logo=safari&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome-148-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firefox-150.0.3-FF7139?style=flat&logo=firefox&logoColor=white"/>
 </p>
 
 ## 🖥️ Tech Stack — Produce Units
