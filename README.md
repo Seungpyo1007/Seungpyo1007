@@ -111,6 +111,14 @@ graph TD
 <h2 align="center">🪪 GitHub Information</h2>
 
 <p align="center">
+  <a href="https://github.com/Seungpyo1007/markdown-rbmk">
+    <img width="680"
+      src="https://markdown-rbmk.vercel.app/api/badge?username=Seungpyo1007&mode=hybrid&theme=dark"
+      alt="markdown-RBMK reactor core" />
+  </a>
+</p>
+
+<p align="center">
   <img height="200" align="center"
     src="https://github-readme-stats.shion.dev/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=ffc1e3&text_color=FFFFFF&title_color=89CFF0&count_private=true&v=3" />
   <img height="200" align="center"
