@@ -8,16 +8,6 @@
   </a>
 </p>
 
-<h2 align="center">☢️ markdown-RBMK</h2>
-
-<p align="center">
-  <a href="https://github.com/Seungpyo1007/markdown-rbmk">
-    <img width="680"
-      src="https://markdown-rbmk.vercel.app/api/badge?username=Seungpyo1007&mode=hybrid&theme=dark"
-      alt="markdown-RBMK reactor core" />
-  </a>
-</p>
-
 <h2 align="center">🪪 GitHub Information</h2>
 
 <p align="center">
