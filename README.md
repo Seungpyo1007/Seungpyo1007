@@ -8,107 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Seungpyo1007">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=F8B9C9&background=0F1B2A00&center=true&vCenter=true&width=620&lines=%E3%82%A4%E3%83%AB%E3%83%9F%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA" alt="Typing SVG" />
-  </a>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="240" src="https://github.com/user-attachments/assets/a08a3444-0271-47f2-b9c0-d6ea0d359fee" alt="八宮 めぐる"/>
-      <br/>
-      <b>💛 八宮 めぐる</b>
-    </td>
-    <td align="center">
-      <img width="240" src="https://github.com/user-attachments/assets/f000ffe8-1c73-4a3f-8bf3-d7b63bc2108b" alt="桜木 真乃"/>
-      <br/>
-      <b>🌸 桜木 真乃</b>
-    </td>
-    <td align="center">
-      <img width="240" src="https://github.com/user-attachments/assets/5c8c4c40-09e8-49bc-8f9c-374a5ecfa08b" alt="風野 灯織"/>
-      <br/>
-      <b>💙 風野 灯織</b>
-    </td>
-  </tr>
-</table>
-
-```mermaid
-graph TD
-    P["💎 シャイニーカラーズ"]:::root
-    P --> IS["illumination STARS"]:::unit
-    IS --> G["八宮 めぐる"]:::member
-    IS --> M["桜木 真乃 ⭐"]:::member
-    IS --> H["風野 灯織"]:::member
-
-    classDef root fill:#0F1B2A,stroke:#F8B9C9,color:#F8B9C9,stroke-width:3px
-    classDef unit fill:#0F1B2A,stroke:#CBAACB,color:#CBAACB,stroke-width:2px
-    classDef member fill:#CBAACB,stroke:#0F1B2A,color:#0F1B2A
-```
-
-```mermaid
-graph TD
-    LA["L'Antica"]:::unit
-    LA --> LA1["田中 摩美々"]:::member
-    LA --> LA2["白瀬 咲耶"]:::member
-    LA --> LA3["月岡 恋鐘 ⚜︎"]:::member
-    LA --> LA4["三峰 結華"]:::member
-    LA --> LA5["幽谷 霧子"]:::member
-
-    HC["放課後クライマックスガールズ"]:::unit
-    HC --> HC1["小宮 果穂"]:::member
-    HC --> HC2["園田 智代子"]:::member
-    HC --> HC3["西城 樹里 ⚜︎"]:::member
-    HC --> HC4["杜野 凛世"]:::member
-    HC --> HC5["有栖川 夏葉"]:::member
-
-    classDef unit fill:#0F1B2A,stroke:#CBAACB,color:#CBAACB,stroke-width:2px
-    classDef member fill:#CBAACB,stroke:#0F1B2A,color:#0F1B2A
-```
-
-```mermaid
-graph TD
-    AL["ALSTROEMERIA"]:::unit
-    AL --> AL1["大崎 甘奈"]:::member
-    AL --> AL2["桑山 千雪 ⚜︎"]:::member
-    AL --> AL3["大崎 甜花"]:::member
-
-    SL["Straylight"]:::unit
-    SL --> SL1["黛 冬優子"]:::member
-    SL --> SL2["芹沢 あさひ ⚜︎"]:::member
-    SL --> SL3["和泉 愛依"]:::member
-
-    classDef unit fill:#0F1B2A,stroke:#CBAACB,color:#CBAACB,stroke-width:2px
-    classDef member fill:#CBAACB,stroke:#0F1B2A,color:#0F1B2A
-```
-
-```mermaid
-graph TD
-    NC["noctchill"]:::unit
-    NC --> NC1["樋口 円香"]:::member
-    NC --> NC2["浅倉 透 ⚜︎"]:::member
-    NC --> NC3["福丸 小糸"]:::member
-    NC --> NC4["市川 雛菜"]:::member
-
-    SH["SHHis"]:::unit
-    SH --> SH1["七草 にちか"]:::member
-    SH --> SH2["緋田 美琴"]:::member
-
-    classDef unit fill:#0F1B2A,stroke:#CBAACB,color:#CBAACB,stroke-width:2px
-    classDef member fill:#CBAACB,stroke:#0F1B2A,color:#0F1B2A
-```
-
-```mermaid
-graph TD
-    CM["CoMETIK"]:::unit
-    CM --> CM1["斑鳩 ルカ"]:::member
-
-    classDef unit fill:#0F1B2A,stroke:#CBAACB,color:#CBAACB,stroke-width:2px
-    classDef member fill:#CBAACB,stroke:#0F1B2A,color:#0F1B2A
-```
-
-<h2 align="center">🪪 GitHub Information</h2>
+<h2 align="center">☢️ markdown-RBMK</h2>
 
 <p align="center">
   <a href="https://github.com/Seungpyo1007/markdown-rbmk">
@@ -117,6 +17,8 @@ graph TD
       alt="markdown-RBMK reactor core" />
   </a>
 </p>
+
+<h2 align="center">🪪 GitHub Information</h2>
 
 <p align="center">
   <img height="200" align="center"
