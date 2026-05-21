@@ -3,16 +3,16 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=70&color=gradient&customColorList=18&text=Hello%20World!&animation=twinkling&fontAlign=50&fontAlignY=50&v=4)
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7jf7s4qikc5wtjj5xe4rv7yhy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7jf7s4qikc5wtjj5xe4rv7yhy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff0a0a&interchange=true&profanity=false&bar_color=00ff00&bar_color_cover=false&mode=dark">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Seungpyo1007/markdown-rbmk">
     <img width="680"
       src="https://markdown-rbmk.vercel.app/api/badge?username=Seungpyo1007&mode=hybrid&theme=dark"
       alt="markdown-RBMK reactor core" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7jf7s4qikc5wtjj5xe4rv7yhy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m7jf7s4qikc5wtjj5xe4rv7yhy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff0a0a&interchange=true&profanity=false&bar_color=00ff00&bar_color_cover=false&mode=dark">
   </a>
 </p>
 
