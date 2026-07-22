@@ -2,9 +2,7 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=70&color=gradient&customColorList=18&text=Hello%20World!&animation=twinkling&fontAlign=50&fontAlignY=50&v=4)
 
-<h2 align="center">👋 About Me</h2>
-
-<p align="center">
+<p>
   Hi, I'm <b>Seungpyo Hong</b>.<br/>
   I enjoy turning ideas into products across mobile, web, AI, and game development.<br/>
   Always learning, building, and exploring new technologies.
