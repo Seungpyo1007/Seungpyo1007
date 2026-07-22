@@ -2,14 +2,6 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=70&color=gradient&customColorList=18&text=Hello%20World!&animation=twinkling&fontAlign=50&fontAlignY=50&v=4)
 
-<p align="center">
-  <a href="https://github.com/Seungpyo1007/markdown-rbmk">
-    <img width="680"
-      src="https://markdown-rbmk.vercel.app/api/badge?username=Seungpyo1007&mode=hybrid&theme=dark"
-      alt="markdown-RBMK reactor core" />
-  </a>
-</p>
-
 <h2 align="center">🪪 GitHub Information</h2>
 
 <p align="center">
@@ -31,285 +23,39 @@
   />
 </p>
 
-<h3 align="left">🌐 Browser</h3>
-<p>
-  <img src="https://img.shields.io/badge/Arc%20Browser-1.147.0-5E43FB?style=flat&logo=arc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Safari-26-006CFF?style=flat&logo=safari&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chrome-148-4285F4?style=flat&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firefox-150.0.3-FF7139?style=flat&logo=firefox&logoColor=white"/>
-</p>
+## 🖥️ Tech Stack
 
-## 🖥️ Tech Stack — Produce Units
-
-### 📱 Mobile Unit
-
-<details>
-<summary><b>Languages</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Cross-Platform</b></summary>
+### Mobile
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 </p>
 
-</details>
-
-<details>
-<summary><b>Native iOS</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-1575F9?style=flat&logo=apple&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Native Android</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Dependency Manager</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/SPM-FA7343?style=flat&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=flat&logo=cocoapods&logoColor=white"/>
-</p>
-
-</details>
-
-### 🌐 Web Unit
-
-<details>
-<summary><b>Languages</b></summary>
+### Web
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Markup / Style</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat&logo=mdx&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Frontend Framework</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Backend Framework</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
 </p>
 
-</details>
-
-### 🤖 AI / ML Unit
-
-<details>
-<summary><b>Language</b></summary>
+### AI / ML
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>ML Frameworks</b></summary>
-
-<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
 </p>
 
-</details>
-
-<details>
-<summary><b>Web / Notebook</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-</p>
-
-</details>
-
-### 🎮 Game ・ Hardware Unit
-
-<details>
-<summary><b>Languages</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Game Engine</b></summary>
+### Game / Infra
 
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Hardware</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>3D / Modeling</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
-</p>
-
-</details>
-
-### ☁️ Cloud ・ DB Unit
-
-<details>
-<summary><b>Cloud Provider</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </p>
-
-</details>
-
-<details>
-<summary><b>BaaS</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Database</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Server / Env</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white"/>
-</p>
-
-</details>
-
-### 🛠️ Producer's Desk
-
-<details>
-<summary><b>OS</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/macOS%20Tahoe-26.3.1-000000?style=flat&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-22.04-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-Rolling-1793D1?style=flat&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%2011-25H2-0078D6?style=flat&logo=windows&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>IDE / Mobile</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Xcode-26.4-1575F9?style=flat&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-Panda%202-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>IDE / JetBrains</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2024.1.7-000000?style=flat&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rider-2026.1-CA2C92?style=flat&logo=rider&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>IDE / AI</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Antigravity-v1.21.9-000000?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cherry%20Studio-v1.8.4-D22128?style=flat&logo=cherry&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>Design</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/AutoCAD-2024-D22128?style=flat&logo=autodesk&logoColor=white"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>VCS</b></summary>
-
-<p>
-  <img src="https://img.shields.io/badge/Git-2.50.1-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
-
-</details>
