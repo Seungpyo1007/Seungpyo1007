@@ -2,14 +2,6 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=70&color=gradient&customColorList=18&text=Hello%20World!&animation=twinkling&fontAlign=50&fontAlignY=50&v=4)
 
-<p>
-  Hi, I'm <b>Seungpyo Hong</b>.<br/>
-  I enjoy turning ideas into products across mobile, web, AI, and game development.<br/>
-  Always learning, building, and exploring new technologies.
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
   <img height="200" align="center"
     src="https://github-readme-stats.shion.dev/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=ffc1e3&text_color=FFFFFF&title_color=89CFF0&count_private=true&v=3" />
