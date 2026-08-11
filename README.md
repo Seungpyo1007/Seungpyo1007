@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=70&color=gradient&customColorList=18&text=Hello%20World!&animation=twinkling&fontAlign=50&fontAlignY=50&v=4)
 
 <p align="center">
-  <img src="https://github-tech-stack-card.vercel.app/api/card?username=Seungpyo1007&theme=shiny&hide_title=true&v=1" width="94%" alt="Tech stack logos grouped by category" />
+  <img src="https://github-tech-stack-card.vercel.app/api/card?username=Seungpyo1007&theme=shiny&hide_title=true&v=2" width="94%" alt="Tech stack logos grouped by category" />
 </p>
 
 <p align="center">
