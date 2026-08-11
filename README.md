@@ -23,37 +23,26 @@
 
 ## 🖥️ Tech Stack
 
-### Mobile
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-</p>
-
-### Web
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-</p>
-
-### AI / ML
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-</p>
-
-### Game / Infra
-
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-</p>
+```mermaid
+mindmap
+  root((Tech Stack))
+    ((Mobile))
+      Flutter
+      Swift
+      Kotlin
+    ((Web))
+      TypeScript
+      React
+      Next.js
+      .NET
+    ((AI / ML))
+      Python
+      PyTorch
+      Hugging Face
+    ((Game / Infra))
+      Unity
+      C#
+      Firebase
+      PostgreSQL
+      Vercel
+```
