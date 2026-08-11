@@ -6,16 +6,12 @@
   <img src="./assets/tech-stack.svg" width="94%" alt="Tech stack logos grouped by category" />
 </p>
 
----
-
 <p align="center">
   <img height="200" align="center"
     src="https://github-readme-stats.shion.dev/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=ffc1e3&text_color=FFFFFF&title_color=89CFF0&count_private=true&v=3" />
   <img height="200" align="center"
     src="https://github-readme-stats.shion.dev/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=10&card_width=320&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&title_color=89CFF0&text_color=FFFFFF&v=3" />
 </p>
-
-<br/>
 
 <p align="center">
   <img height="200" align="center"
