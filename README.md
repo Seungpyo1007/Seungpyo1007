@@ -9,6 +9,8 @@
     src="https://github-readme-stats.shion.dev/api/top-langs?username=Seungpyo1007&layout=compact&langs_count=10&card_width=320&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&title_color=89CFF0&text_color=FFFFFF&v=3" />
 </p>
 
+<br/>
+
 <p align="center">
   <img height="200" align="center"
     src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&hide_border=false&border=CBAACB&ring=ffc1e3&fire=e0c3fc&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB&v=3" />
@@ -20,8 +22,6 @@
     width="94%"
   />
 </p>
-
-## 🖥️ Tech Stack
 
 <p align="center">
   <img src="./assets/tech-stack.svg" width="94%" alt="Tech stack logos grouped by category" />
