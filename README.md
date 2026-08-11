@@ -6,6 +6,8 @@
   <img src="./assets/tech-stack.svg" width="94%" alt="Tech stack logos grouped by category" />
 </p>
 
+---
+
 <p align="center">
   <img height="200" align="center"
     src="https://github-readme-stats.shion.dev/api?username=Seungpyo1007&show_icons=true&hide_border=false&border_color=CBAACB&bg_color=0F1B2A&icon_color=ffc1e3&text_color=FFFFFF&title_color=89CFF0&count_private=true&v=3" />
