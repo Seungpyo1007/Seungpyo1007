@@ -23,26 +23,6 @@
 
 ## 🖥️ Tech Stack
 
-```mermaid
-mindmap
-  root((Tech Stack))
-    ((Mobile))
-      Flutter
-      Swift
-      Kotlin
-    ((Web))
-      TypeScript
-      React
-      Next.js
-      .NET
-    ((AI / ML))
-      Python
-      PyTorch
-      Hugging Face
-    ((Game / Infra))
-      Unity
-      C#
-      Firebase
-      PostgreSQL
-      Vercel
-```
+<p align="center">
+  <img src="./assets/tech-stack.svg" width="94%" alt="Tech stack logos grouped by category" />
+</p>
