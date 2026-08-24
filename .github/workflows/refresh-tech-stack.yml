@@ -1,0 +1,51 @@
+name: Refresh tech stack snapshot
+
+# assets/tech-stack.svg 는 README 가 참조하는 카드 서비스의 스냅샷입니다.
+# 서비스가 내려가거나 사라져도 기록이 남도록 주기적으로 갱신합니다.
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'   # 매주 월요일 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch the current card
+        run: |
+          curl --fail --silent --show-error --location \
+               --retry 3 --retry-delay 5 --max-time 60 \
+               -o /tmp/tech-stack.svg \
+               'https://github-tech-stack-card.vercel.app/api/card?username=Seungpyo1007&theme=shiny&hide_title=true'
+
+      - name: Reject anything that is not a usable SVG
+        run: |
+          size=$(stat -c%s /tmp/tech-stack.svg)
+          if [ "$size" -lt 10000 ]; then
+            echo "::error::Response is only ${size} bytes - refusing to overwrite the snapshot."
+            exit 1
+          fi
+          if ! head -c 200 /tmp/tech-stack.svg | grep -q '<svg'; then
+            echo "::error::Response is not an SVG - refusing to overwrite the snapshot."
+            exit 1
+          fi
+          echo "Fetched ${size} bytes."
+
+      - name: Commit when the snapshot actually changed
+        run: |
+          cp /tmp/tech-stack.svg assets/tech-stack.svg
+          if git diff --quiet -- assets/tech-stack.svg; then
+            echo "Snapshot is already current - nothing to commit."
+            exit 0
+          fi
+          git config user.name  'TechEngineBot'
+          git config user.email '289859915+TechEngineBot@users.noreply.github.com'
+          git add assets/tech-stack.svg
+          git commit -m 'chore: refresh tech stack snapshot'
+          git push
