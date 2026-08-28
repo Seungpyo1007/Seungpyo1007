@@ -18,9 +18,18 @@
     src="https://streak-stats.demolab.com?user=Seungpyo1007&background=0F1B2A&hide_border=false&border=CBAACB&ring=ffc1e3&fire=e0c3fc&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=89CFF0&sideLabels=89CFF0&dates=CBAACB&v=3" />
 </p>
 
+<!--
+  Activity graph — temporarily removed.
+  github-readme-activity-graph.vercel.app returns 402 (DEPLOYMENT_DISABLED);
+  see Ashutosh00710/github-readme-activity-graph issue "This deployment is
+  temporarily paused" (2026-08-26). The public instance has died repeatedly
+  (Heroku free tier, then Cyclic.sh, now Vercel), so self-hosting is the
+  durable fix. Uncomment when a working host is available.
+
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Seungpyo1007&bg_color=0F1B2A&hide_border=false&border_color=CBAACB&line=89CFF0&color=AEEEEE&point=CBAACB&v=3"
     width="94%"
   />
 </p>
+-->
