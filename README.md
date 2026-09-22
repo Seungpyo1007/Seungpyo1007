@@ -2,6 +2,18 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=70&color=gradient&customColorList=18&text=Hello%20World!&animation=twinkling&fontAlign=50&fontAlignY=50&v=4)
 
+<div align="center">
+
+### 🌱 Open Source Contributions
+
+| Repository | PR | 내용 | 상태 |
+|:---|:---:|:---|:---:|
+| [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) ⭐29k | [#342](https://github.com/ahujasid/mcp-for-blender/pull/342) | Hunyuan3D 공식 API 해외(Pro) 계정 선택 기능 | ✅ Merged |
+| [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) ⭐29k | [#344](https://github.com/ahujasid/mcp-for-blender/pull/344) | 씬을 GLB/FBX로 내보내는 `export_scene` 명령·MCP 도구 | ✅ Merged |
+| [python/python-docs-ko](https://github.com/python/python-docs-ko) | [#1199](https://github.com/python/python-docs-ko/pull/1199) | Python 공식 문서 `bz2` 모듈 한국어 번역 | ✅ Merged |
+
+</div>
+
 <p align="center">
   <img src="https://github-tech-stack-card.vercel.app/api/card?username=Seungpyo1007&theme=shiny&hide_title=true&v=2" width="94%" alt="Tech stack logos grouped by category" />
 </p>
