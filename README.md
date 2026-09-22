@@ -2,29 +2,11 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=220&fontSize=70&color=gradient&customColorList=18&text=Hello%20World!&animation=twinkling&fontAlign=50&fontAlignY=50&v=4)
 
-<div align="center">
-
-<h3>🌱 Open Source Contributions</h3>
-
-<a href="https://github.com/ahujasid/mcp-for-blender/pull/342"><img src="https://img.shields.io/badge/ahujasid%2Fmcp--for--blender-%23342%20%C2%B7%20Merged-CBAACB?style=for-the-badge&logo=blender&logoColor=ffc1e3&labelColor=0F1B2A" alt="mcp-for-blender #342 Merged" /></a>
-<br />
-<sub>Hunyuan3D 공식 API 해외(Pro) 계정 선택 기능</sub>
-
-<br /><br />
-
-<a href="https://github.com/ahujasid/mcp-for-blender/pull/344"><img src="https://img.shields.io/badge/ahujasid%2Fmcp--for--blender-%23344%20%C2%B7%20Merged-CBAACB?style=for-the-badge&logo=blender&logoColor=ffc1e3&labelColor=0F1B2A" alt="mcp-for-blender #344 Merged" /></a>
-<br />
-<sub>씬을 GLB · FBX로 내보내는 <code>export_scene</code> 명령과 MCP 도구</sub>
-
-<br /><br />
-
-<a href="https://github.com/python/python-docs-ko/pull/1199"><img src="https://img.shields.io/badge/python%2Fpython--docs--ko-%231199%20%C2%B7%20Merged-89CFF0?style=for-the-badge&logo=python&logoColor=ffc1e3&labelColor=0F1B2A" alt="python-docs-ko #1199 Merged" /></a>
-<br />
-<sub>Python 공식 문서 <code>bz2</code> 모듈 한국어 번역</sub>
-
-</div>
-
-<br />
+<p align="center">
+  <a href="https://github-oss-card.vercel.app">
+    <img src="https://github-oss-card.vercel.app/api/card?items=eyJ2IjoxLCJpdGVtcyI6W3sicmVwbyI6ImFodWphc2lkL21jcC1mb3ItYmxlbmRlciIsInN0YXR1cyI6Im1lcmdlZCIsIm51bWJlciI6MzQ0LCJzdGFycyI6MjkxNTcsImRhdGUiOiIyMDI2LTA5LTE2IiwidGl0bGUiOiJmZWF0OiBleHBvcnRfc2NlbmUgY29tbWFuZCBhbmQgTUNQIHRvb2wgKEdMQi9GQlggdG8gYSBjYWxsZXItY2hvc2VuIHBhdGgpIn0seyJyZXBvIjoiYWh1amFzaWQvbWNwLWZvci1ibGVuZGVyIiwic3RhdHVzIjoibWVyZ2VkIiwibnVtYmVyIjozNDIsInN0YXJzIjoyOTE1NywiZGF0ZSI6IjIwMjYtMDktMTUiLCJ0aXRsZSI6ImZlYXQ6IEludGVybmF0aW9uYWwgKFBybykgYWNjb3VudCB0b2dnbGUgZm9yIEh1bnl1YW4zRCBPZmZpY2lhbCBBUEkifSx7InJlcG8iOiJweXRob24vcHl0aG9uLWRvY3Mta28iLCJzdGF0dXMiOiJtZXJnZWQiLCJudW1iZXIiOjExOTksInN0YXJzIjo3NywiZGF0ZSI6IjIwMjYtMDgtMjAiLCJ0aXRsZSI6IlRyYW5zbGF0ZSBsaWJyYXJ5L2J6MiBpbnRvIEtvcmVhbiJ9XX0&v=1" width="94%" alt="Open source contributions" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-tech-stack-card.vercel.app/api/card?username=Seungpyo1007&theme=shiny&hide_title=true&v=2" width="94%" alt="Tech stack logos grouped by category" />
